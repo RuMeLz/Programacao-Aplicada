@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\bin\Debug\net8.0\teste Abstração C#.exe
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\bin\Debug\net8.0\teste Abstração C#.deps.json
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\bin\Debug\net8.0\teste Abstração C#.runtimeconfig.json
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\bin\Debug\net8.0\teste Abstração C#.dll
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\bin\Debug\net8.0\teste Abstração C#.pdb
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.AssemblyInfo.cs
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.dll
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\refint\teste Abstração C#.dll
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.pdb
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.genruntimeconfig.cache
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\ref\teste Abstração C#.dll

@@ -1,0 +1,14 @@
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.AssemblyInfoInputs.cache
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.AssemblyInfo.cs
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\bin\Debug\net8.0\Teste herança C#.exe
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\bin\Debug\net8.0\Teste herança C#.deps.json
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\bin\Debug\net8.0\Teste herança C#.runtimeconfig.json
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\bin\Debug\net8.0\Teste herança C#.dll
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\bin\Debug\net8.0\Teste herança C#.pdb
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.dll
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\refint\Teste herança C#.dll
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.pdb
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\Teste herança C#.genruntimeconfig.cache
+C:\Users\Marce\source\repos\Teste herança C#\Teste herança C#\obj\Debug\net8.0\ref\Teste herança C#.dll
