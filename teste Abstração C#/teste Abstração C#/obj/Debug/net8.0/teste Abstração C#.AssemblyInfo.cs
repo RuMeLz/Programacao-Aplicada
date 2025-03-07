@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("teste Abstração C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+822e03057f53e5bd34a38c32061576399c39d7c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0d8e1c0b44c3490698c841052c234868dfbf9eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("teste Abstração C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("teste Abstração C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
