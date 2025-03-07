@@ -12,3 +12,4 @@ C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\
 C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.pdb
 C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.genruntimeconfig.cache
 C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\ref\teste Abstração C#.dll
+C:\Users\Marce\source\repos\teste Abstração C#\teste Abstração C#\obj\Debug\net8.0\teste Abstração C#.sourcelink.json

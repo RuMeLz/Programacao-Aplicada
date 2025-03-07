@@ -6,19 +6,26 @@ public void Sleep() // método normal (que também pode estar presente)
     Console.WriteLine("Zzz");
 }
 }
-class Pig : Animal // classe herdada de animal
+class Dog : Animal // classe herdada de animal
 {
     public override void AnimalSound() // método abstrato ganha corpo com a chave "override" (para substituir)
     {
-        Console.WriteLine("The pig says: wee wee");
+        Console.WriteLine("The pig says: MAMA MIA");
     }
 }
-class Program // uso da classe herdada para us
+class Cat : Animal // classe herdada de animal
 {
-    static void Main(string[] args)
+    public override void AnimalSound() // método abstrato ganha corpo com a chave "override" (para substituir)
     {
-        Pig myPig = new Pig();
-        myPig.AnimalSound();
-    myPig.Sleep();
+        Console.WriteLine("The pig says: MAMA MIA");
+    }
+}
+class Program // uso da classe herdada para usar os métodos criados
+{
+    static void Main(string[] args) // execucao dos metodos
+    {
+        Pig myPig = new Pig(); // cria o objeto mypig
+        myPig.AnimalSound(); //método abstrato substituido usado no objeto
+    myPig.Sleep(); //método regular
     }
 }
